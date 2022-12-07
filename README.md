@@ -1,5 +1,4 @@
 ### Hi there 👋 my name is [Olga Chirkova](https://www.linkedin.com/in//o-chirkova/), I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> 
- 
 
 ## :hammer_and_wrench: Languages and Tools :
   <div>
@@ -25,6 +24,14 @@
  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   
+ ### 
+ #### My favorite (QA and programming related) quotes:
+> - Everything is easy, when you know how to do this.  
+> - Practice makes perfect
+ ### 
+ ### 
+ - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//o-chirkova/)
+ 
   <!--
 **Olga-Chirkova/Olga-Chirkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
