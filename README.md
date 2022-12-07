@@ -1,6 +1,6 @@
-### Hi there 👋 my name is [Olga Chirkova](https://www.linkedin.com/in//o-chirkova/), I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> 
+## Hi there 👋 my name is [Olga Chirkova](https://www.linkedin.com/in//o-chirkova/), I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> 
 
-## :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
