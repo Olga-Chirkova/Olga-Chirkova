@@ -1,4 +1,4 @@
-### Hi there 👋 my name is [Olga Chirkova](https://www.linkedin.com/in//o-chirkova/), I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" width="55"> <img src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="55">
+### Hi there 👋 my name is [Olga Chirkova](https://www.linkedin.com/in//o-chirkova/), I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> 
  
 
 ## :hammer_and_wrench: Languages and Tools :
@@ -31,6 +31,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="55"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="55"/>&nbsp;                               <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp;
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" width="55"> <img src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="55">
+
 
 Here are some ideas to get you started:
 
