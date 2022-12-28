@@ -1,5 +1,7 @@
 ## Hi there 👋 my name is [Olga Chirkova](https://www.linkedin.com/in//o-chirkova/),
+##
 ## I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> 
+##
 
 ### :hammer_and_wrench: Technologies and Tools :
   <div>
