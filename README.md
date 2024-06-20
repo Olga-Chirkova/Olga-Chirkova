@@ -1,6 +1,17 @@
 ## Hi there 👋 my name is [Olga Chirkova](https://www.linkedin.com/in//o-chirkova/),
 ## I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> 
 
+💡 Deep knowledge of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC), including techniques like Agile and Waterfall and Scaled Agile Framework (SAFe).
+
+🖱️ Actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project.
+
+🥇 Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End.
+
+☝️ Good hands-on experience on test management and bug tracking tool JIRA.
+
+📁 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.
+
+📋 Extensive knowledge in understanding Business Requirements Documents, Functional Requirements Documents, and Software Requirement Specifications.
 
 ### :hammer_and_wrench: Technologies and Tools :
   <div>
@@ -27,8 +38,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   
  ### 
- #### My favorite (QA and programming related) quotes:
-> - Everything is easy, when you know how to do this.  
+ #### My favorite (QA and programming-related) quotes:
+> - Everything is easy when you know how to do this.  
 > - Practice makes perfect
  ### 
  ### 
