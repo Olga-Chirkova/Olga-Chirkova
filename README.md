@@ -1,5 +1,5 @@
 ## Hi there 👋 my name is [Olga Chirkova](https://www.linkedin.com/in//o-chirkova/),
-## I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> 
+### I am a Software QA Automation Engineer <img src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif" width="55"> 
 
 💡 Deep knowledge of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC), including techniques like Agile and Waterfall and Scaled Agile Framework (SAFe).
 
@@ -14,6 +14,7 @@
 📋 Extensive knowledge in understanding Business Requirements Documents, Functional Requirements Documents, and Software Requirement Specifications.
 
 ### :hammer_and_wrench: Technologies and Tools :
+
   <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
