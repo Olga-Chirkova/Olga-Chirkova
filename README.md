@@ -44,7 +44,8 @@
 > - Practice makes perfect
  ### 
  ### 
- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//o-chirkova/)
+ - :mailbox:How to reach me:
+ - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//o-chirkova/)
  
   <!--
 **Olga-Chirkova/Olga-Chirkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
